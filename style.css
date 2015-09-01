@@ -1,0 +1,50 @@
+h1 {
+  font-size: 48px;
+  margin-bottom: 2px;
+}
+
+h3 {
+  font-size: 16px;
+}
+
+#header {
+  background-color: #4b77c3;
+}
+
+#body {
+  background-color: #9a8574;
+  font-family: helvetica;
+}
+
+#footer {
+  background-color: #878787;
+  font-family: helvetica;
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+a:active {
+  color: red;
+}
+
+a:hover{
+  color: yellow
+}
+
+.captiontext {
+  font-family: serif;
+}
+
+.blocktext {
+  text-align: center;
+}
+
+.tiy_image {
+  padding-left: 180px;
+}
